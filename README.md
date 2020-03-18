@@ -6,7 +6,9 @@
  ## Usage
 
  Edit settings file according to Tour requirements
+
  Edit peers file - add evry single peer name in one line
+
  Run the script
 
  Treat generated config files as a skeleteon - manual adjustment may be necessary.
