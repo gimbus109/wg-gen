@@ -1,0 +1,9 @@
+################################
+# WireGuard server config file #
+################################
+
+[Interface]
+    Address = ${vpnip}/24
+    PrivateKey = ${private_key}
+    ListenPort = ${port}
+

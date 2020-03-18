@@ -1,0 +1,9 @@
+########################
+# Config peer ${peer} 
+########################
+
+[Peer]
+    PublicKey = ${public_key}
+    PresharedKey = ${preshared_key}
+    AllowedIPs = ${localnet}
+

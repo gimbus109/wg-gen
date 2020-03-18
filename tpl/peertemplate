@@ -1,0 +1,12 @@
+[Interface]
+    Address = ${vpnip}
+    PrivateKey = ${private_key}
+[Peer]
+    PublicKey = ${server_public_key}
+    PresharedKey = ${preshared_key}
+    AllowedIPs = ${localnet}
+    Endpoint = ${endpoint}:${port}
+    PersistentKeepalive = 25
+
+
+
