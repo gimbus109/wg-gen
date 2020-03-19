@@ -1,5 +1,5 @@
 [Interface]
-    Address = ${vpnip}
+    Address = ${peerip}
     PrivateKey = ${private_key}
 [Peer]
     PublicKey = ${server_public_key}

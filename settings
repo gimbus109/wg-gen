@@ -5,7 +5,7 @@ output='./output'
 # server config subdir under $output
 server=server
 # WireGuard VPN server address
-vpnip=10.10.0.1
+vpnip=10.20.0.
 # local LAN behind VPN gateway
 localnet=10.0.0.0/24
 # VPN gateway public address

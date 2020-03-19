@@ -3,7 +3,7 @@
 ################################
 
 [Interface]
-    Address = ${vpnip}/24
+    Address = ${serverip}/24
     PrivateKey = ${private_key}
     ListenPort = ${port}
 
